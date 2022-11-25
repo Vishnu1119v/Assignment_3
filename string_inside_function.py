@@ -5,4 +5,4 @@ def rev(str1):
         res=ch+res
     return res
 print('The original string =',str1)
-print('reverse of the given string =',rev(str1))
+print('The reverse of the given string =',rev(str1))
