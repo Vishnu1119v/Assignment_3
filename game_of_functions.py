@@ -1,4 +1,4 @@
-elem=int(input('enter the number of elements :'))
+elem=int(input('enter the number of elements to add :'))
 lst=[]
 for i in range(elem):
     elem1=int(input('enter the element :'))
